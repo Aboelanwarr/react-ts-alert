@@ -53,6 +53,10 @@ $tpisBorder: rgba(255, 213, 0, 0.793);
     line-height: 1.5rem;
     font-weight: 500;
   }
+  a {
+    color: #9499ff;
+    font-weight: 600;
+  }
 }
 }
 @include alert("alert-default",$defaultBg,$defaultColor ,$defaultBorder );
